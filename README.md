@@ -1,4 +1,4 @@
-# HI TTHERE, I'M CORNELIUS-SNOWHYT
+# HI THERE, I'M CORNELIUS-SNOWHYT
 
 I'm a beginner developer exploring **Python ** and c++ side-by-side.
 I build small, practical projects- from **data validation tools** to **automation scripts and **learning exercises** - while steadily growing up my programming skills.
