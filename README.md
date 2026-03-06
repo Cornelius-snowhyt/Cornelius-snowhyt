@@ -1,41 +1,88 @@
 # HI THERE, I'M CORNELIUS-SNOWHYT
 
-I'm a beginner developer exploring **Python ** and c++ side-by-side.
-I build small, practical projects- from **data validation tools** to **automation scripts and **learning exercises** - while steadily growing up my programming skills.
+Aspiring Data Analyst skilled in Python (Pandas, NumPy, Matplotlib) and C++.  
+I build practical projects in statistical analysis, data visualization, and automation while developing strong analytical and data science skills.
 
-## Skills & Tools
--**Languages:** Python, c++
--**Focus Areas:**Problem-solving, automation, data validation, currency conversion, clean code and more
--**Tools:** Git, GitHub, VS Code, Linux Mint
+---
 
-## Current Projects
--**Data Validator** - Validates names, emails, dates and more
--**Automation Scripts** Save time by automating repetitive tasks
--**Python vs c++ learning**- Comparing solutions in two languages
+## 🎯 Vision
+To design intelligent data-driven systems that transform raw data into knowledge, predictions, and impactful solutions.
 
-## Projects Roadmap
-**Short Term (1-3 months)**
--- Complete Python & C++ fundamentals
--- Build more regex/data validation projects
---Automate at least 3 real-life tasks
+## 🚀 Mission
+To grow from data analyst to machine learning engineer by mastering statistics, data science, and machine learning while building practical analytical projects.
 
-**Mid Term (3-6 months)**
---Expore file handling & API in Python
---Work with C++ classes and object-oriented programming
---Create a portfolio-ready project combining both languages
+---
 
-**Long Term (6-12 months**
---Contribute to open-source projects
---Learn basic web development (Python frameworks)
---Build a large, multi-featured software project
+# 🧠 Skills
 
-## What I'm Learning
---Writing maintainable, well-structured code
---Git & GitHub workflows
---Applying algorithmsin Python and C++
+### Programming
+- Python
+- C++
 
-## Let's Connect
--**LinkedIn:** [
--**GitHub:** [https://github.com/CORNELIUS-SNOWHYT](https://github.com/Cornelius-snowhyt)
+### Data Analysis
+- Pandas
+- NumPy
+- Data Cleaning
+- Exploratory Data Analysis (EDA)
+
+### Statistics
+- Hypothesis Testing
+- Chi-Square Test
+- Regression Analysis
+- Descriptive Statistics
+
+### Data Visualization
+- Matplotlib
+- Data Storytelling
+
+### Tools
+- Jupyter Notebook
+- Git & GitHub
+
+---
+
+# 🚧 Current Projects
+
+- **Statistical Test Toolkit**
+  - Implementing statistical tests in Python.
+
+- **Data Validation Tool**
+  - Python script for checking missing values and inconsistent datasets.
+
+- **Exploratory Data Analysis Projects**
+  - Analyzing real-world datasets using Python.
+
+---
+
+# 🗺️ Project Roadmap
+
+## Short Term
+- Exploratory Data Analysis projects
+- Data visualization projects
+- Statistical analysis tools
+
+## Mid Term
+- Regression modeling
+- Time series analysis
+- Machine learning basics
+
+## Long Term
+- End-to-end machine learning pipeline
+- Predictive modeling systems
+- Model deployment projects
+
+---
+
+# 📚 Currently Learning
+
+- Advanced Python for Data Analysis
+- Statistical modeling
+- Data visualization techniques
+- Machine learning fundamentals
+
+---
+
+# 📫 Connect With Me
+cornelius-snowhyt)
 
 > "Code is  the bridge between ideas and reality."
