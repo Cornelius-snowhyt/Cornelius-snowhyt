@@ -24,12 +24,14 @@ To grow from data analyst to machine learning engineer by mastering statistics, 
 - NumPy
 - Data Cleaning
 - Exploratory Data Analysis (EDA)
+  
 
 ### Statistics
 - Hypothesis Testing
 - Chi-Square Test
 - Regression Analysis
 - Descriptive Statistics
+- Time Series
 
 ### Data Visualization
 - Matplotlib
