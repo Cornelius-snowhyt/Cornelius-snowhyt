@@ -18,6 +18,7 @@ To grow from data analyst to machine learning engineer by mastering statistics, 
 ### Programming
 - Python
 - C++
+- SQL
 
 ### Data Analysis
 - Pandas
