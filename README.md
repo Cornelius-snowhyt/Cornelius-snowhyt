@@ -54,6 +54,8 @@ To grow from data analyst to machine learning engineer by mastering statistics, 
 
 - **Exploratory Data Analysis Projects**
   - Analyzing real-world datasets using Python.
+ 
+  **integrated-farm-operations Public
 
 ---
 
